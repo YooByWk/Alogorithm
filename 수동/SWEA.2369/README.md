@@ -1,4 +1,4 @@
-# [D2] [AtCoder Beginner Contest 073] B. Theater - 2369
+# [D3] [AtCoder Beginner Contest 073] B. Theater - 2369
 
 [문제 링크](https://swexpertacademy.com/main/code/contestProblem/contestProblemDetail.do?contestProbId=AV56CTPqB2ADFAUo&categoryId=AV56CTPqB2ADFAUo&categoryType=CODE) 
 
