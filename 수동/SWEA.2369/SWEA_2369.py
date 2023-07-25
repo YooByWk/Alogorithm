@@ -9,3 +9,4 @@ for test_case in range(1, 1+T):
         for asu in range(ocupado[0],ocupado[1]+1): # ~부터 ~까지
             seats[asu] = 1 # 그 자리 1로 만들어줌
     print(f'#{test_case} {seats.count(1)}') # 출력
+
