@@ -1,0 +1,1 @@
+q = list(map(str,input().split()));print(len(q))
