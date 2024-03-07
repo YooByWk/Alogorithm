@@ -7,11 +7,9 @@ function solution(code) {
             mode = !mode
             continue
         }
-        
         if (mode === true) { // 모드가 0일 때
             if (i % 2 === 0) { // 짝수
                 answer += code[i]
-                
             } 
         } else // 모드가 1일 때
         if (i % 2 === 1 ) { // 홀수
