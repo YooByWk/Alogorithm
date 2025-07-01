@@ -1,0 +1,1 @@
+const q=require('fs').readFileSync('/dev/stdin').toString().trim().split('\n');const x=Number(q[0]);const n=Number(q[1]);let s=0;for(let i=0;i<n;i++){let t=q[i+2];let u=t.split(" ");let v=u[0]*u[1];s+=v;}x===s?console.log("Yes"):console.log("No");
