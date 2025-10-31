@@ -1,0 +1,1 @@
+console.log((i => { while(i.includes("BUG")) i=i.replace(/BUG/g,""); return i })(require("fs").readFileSync(0).toString()))
