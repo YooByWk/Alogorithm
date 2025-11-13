@@ -1,0 +1,10 @@
+const [A, B] = require("fs")
+  .readFileSync(0)
+  .toString()
+  .trim()
+  .split("\n")
+  .map((s) => BigInt(s))
+
+console.log((A + B).toString())
+console.log((A - B).toString())
+console.log((A * B).toString())
